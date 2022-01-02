@@ -1,0 +1,21 @@
+C:\Users\kohdc\Desktop\Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.exe.config
+C:\Users\kohdc\Desktop\Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.exe
+C:\Users\kohdc\Desktop\Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.pdb
+C:\Users\kohdc\Desktop\Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.csprojAssemblyReference.cache
+C:\Users\kohdc\Desktop\Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.csproj.CoreCompileInputs.cache
+C:\Users\kohdc\Desktop\Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.exe
+C:\Users\kohdc\Desktop\Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.pdb
+C:\Users\kohdc\Desktop\Hello Coding Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.exe.config
+C:\Users\kohdc\Desktop\Hello Coding Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.exe
+C:\Users\kohdc\Desktop\Hello Coding Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.pdb
+C:\Users\kohdc\Desktop\Hello Coding Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.csprojAssemblyReference.cache
+C:\Users\kohdc\Desktop\Hello Coding Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.csproj.CoreCompileInputs.cache
+C:\Users\kohdc\Desktop\Hello Coding Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.exe
+C:\Users\kohdc\Desktop\Hello Coding Projects\Intro\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.pdb
+C:\Users\kohdc\Desktop\Coding Study\POCU Academy\1. Hello Coding 프로그래밍 (C#)\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.exe.config
+C:\Users\kohdc\Desktop\Coding Study\POCU Academy\1. Hello Coding 프로그래밍 (C#)\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.exe
+C:\Users\kohdc\Desktop\Coding Study\POCU Academy\1. Hello Coding 프로그래밍 (C#)\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\bin\Debug\NumberBaseballGame.pdb
+C:\Users\kohdc\Desktop\Coding Study\POCU Academy\1. Hello Coding 프로그래밍 (C#)\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.csprojAssemblyReference.cache
+C:\Users\kohdc\Desktop\Coding Study\POCU Academy\1. Hello Coding 프로그래밍 (C#)\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.csproj.CoreCompileInputs.cache
+C:\Users\kohdc\Desktop\Coding Study\POCU Academy\1. Hello Coding 프로그래밍 (C#)\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.exe
+C:\Users\kohdc\Desktop\Coding Study\POCU Academy\1. Hello Coding 프로그래밍 (C#)\NumberBaseballGame\NumberBaseballGame\NumberBaseballGame\obj\Debug\NumberBaseballGame.pdb
